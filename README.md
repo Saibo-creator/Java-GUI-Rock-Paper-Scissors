@@ -11,4 +11,4 @@ Bonus: Implement a GUI version of the game using Java Swing. Do you need to chan
 
 Demo:
 
-![demo](img/GUI_demo.png)
+![demo](img/GUI_demo.gif)
